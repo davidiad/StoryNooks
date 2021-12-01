@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f78cef09f6735473f99038de08d7cb35, type: 3}
+  m_Name: 05_StoryData
+  m_EditorClassIdentifier: 
+  storyID: 5
+  thumbnail: {fileID: 21300000, guid: 614352767d8eb4a899d1b65a363b5306, type: 3}
+  company: Glam Doll Donuts
+  tagline: Making it from scratch
+  callToAction: 'To learn new ways to leverage online tools to grow  your business,
+    sign up for our free workshops:'
+  workshop: Get Found on Google Search and Maps or Coach Your Team to Success
+  srtFileName: 

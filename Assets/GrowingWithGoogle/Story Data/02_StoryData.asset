@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f78cef09f6735473f99038de08d7cb35, type: 3}
+  m_Name: 02_StoryData
+  m_EditorClassIdentifier: 
+  storyID: 2
+  thumbnail: {fileID: 21300000, guid: d3832b868bb3740e0b92c4ec46875a86, type: 3}
+  company: PIETRO HANDBAGS (NYC)
+  tagline: Carrying a legacy
+  callToAction: 'To learn how you can use measurement tools to grow your business,
+    sign up for our free workshop:'
+  workshop: Optimize Campaigns Using Measurement and Attribution
+  srtFileName: Pietro_Handbags_test

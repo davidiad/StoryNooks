@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: f99578e41447d4a00ace1916ef44fdf8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Google Sans Display
+  fontNames:
+  - Google Sans Display
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7c7b60a028de44cdcbe50871a233f345, type: 3}
+  - {fileID: 12800000, guid: 62dcd8a6a3a7e4d779ad019e48d0945c, type: 3}
+  - {fileID: 12800000, guid: 05331c471bb954a9997cd399e76cf697, type: 3}
+  - {fileID: 12800000, guid: 331dd3e76e35948f2b9d3f2fb42236c8, type: 3}
+  - {fileID: 12800000, guid: 2c94edaeecc2b4db98780b29fecba59e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

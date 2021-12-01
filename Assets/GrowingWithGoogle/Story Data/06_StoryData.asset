@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f78cef09f6735473f99038de08d7cb35, type: 3}
+  m_Name: 06_StoryData
+  m_EditorClassIdentifier: 
+  storyID: 6
+  thumbnail: {fileID: 21300000, guid: 13e74a460faa34630b4fcc457d3fbed5, type: 3}
+  company: GOODWILL
+  tagline: Mission to train
+  callToAction: ' Learn more about the Google IT Support Professional Certificate
+    program at: g.co/itcert and the Goodwill Digital Career Accelerator at: http://www.goodwill.org/dca/'
+  workshop: 
+  srtFileName: 
